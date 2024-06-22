@@ -25,5 +25,5 @@ Technologies and Tools
 - Matplotlib
 - Numba (CUDA for GPU acceleration)
 - Jupyter Notebooks
-- 
+
 Any feedback and suggestions are welcome!
